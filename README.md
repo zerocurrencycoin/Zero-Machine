@@ -39,3 +39,7 @@ When a new block hash is seen we re-query Insight to get the block height and a 
 When new unconfirmed tx are seen we add a sphere for each output, with the size roughly calculated using the log of the spherical volume with r = txo-amount, and different textures for amounts falling between the limits <1, <10, <100, <1000.  
 
 During visualization if no network activity is detected within any (default) 30 second period, Insight is pinged for the best block hash to check if it's still alive - if not, the loader screen is shown again until a connection is re-established.
+
+If your browser have trouble loading the images and textures, please see this link about an issue with CORS:
+
+https://www.thepolyglotdeveloper.com/2014/08/bypass-cors-errors-testing-apis-locally/
