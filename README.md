@@ -48,6 +48,7 @@ When new unconfirmed tx are seen we add a sphere for each output, with the size 
 
 <1000 = less than 1000 Zer = Largest Ball
 
+
 During visualization if no network activity is detected within any (default) 30 second period, Insight is pinged for the best block hash to check if it's still alive - if not, the loader screen is shown again until a connection is re-established.
 
 If your browser have trouble loading the images and textures, please see this link about an issue with CORS:
