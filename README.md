@@ -38,7 +38,7 @@ When a new block hash is seen we re-query Insight to get the block height and a 
 
 When new unconfirmed tx are seen we add a sphere for each output, with the size roughly calculated using the log of the spherical volume with r = txo-amount, and different textures for amounts falling between the limits <1, <10, <100, <1000.  
 
-TX Key:
+### TX Key:
 
 <1, = less than 1 Zer = Smallest Ball
 
