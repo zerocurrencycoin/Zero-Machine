@@ -2,8 +2,6 @@
 
 Ƶero Blockchain Visualizer using Three.js, Cannon.js and Insight API.
 
-Based on dash-machine by Andy Freer (https://github.com/andyfreer/dash-machine).
-
 ### Build
 
 Clone the repo:
@@ -43,6 +41,8 @@ During visualization if no network activity is detected within any (default) 30 
 If your browser have trouble loading the images and textures, please see this link about an issue with CORS:
 
 https://www.thepolyglotdeveloper.com/2014/08/bypass-cors-errors-testing-apis-locally/
+
+Based on dash-machine by Andy Freer (https://github.com/andyfreer/dash-machine).
 
 
 ### TX Key:
