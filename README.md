@@ -47,10 +47,10 @@ https://www.thepolyglotdeveloper.com/2014/08/bypass-cors-errors-testing-apis-loc
 
 ### TX Key:
 
-<1, = less than 1 Zer = Smallest Ball
+<1, = less than 1 Zer = `Smallest Ball - [Complete Yellow]`
 
-<10 = less than 10 Zer = Small Ball
+<10 = less than 10 Zer = `Small Ball - [Black Band]`
 
-<100 = less than 100 Zer = Medium Ball
+<100 = less than 100 Zer = `Medium Ball - [Yellow Band]`
 
-<1000 = less than 1000 Zer = Largest Ball
+<1000 = less than 1000 Zer = `Largest Ball - [Yellow Band]`
