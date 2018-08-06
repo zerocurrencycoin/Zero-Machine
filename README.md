@@ -40,8 +40,11 @@ When new unconfirmed tx are seen we add a sphere for each output, with the size 
 
 TX Key:
 <1, = less than 1 Zer = Smallest Ball
+
 <10 = less than 10 Zer = Small Ball
+
 <100 = less than 100 Zer = Regular Ball
+
 <1000 = less than 1000 Zer = Largest Ball
 
 During visualization if no network activity is detected within any (default) 30 second period, Insight is pinged for the best block hash to check if it's still alive - if not, the loader screen is shown again until a connection is re-established.
