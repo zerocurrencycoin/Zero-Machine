@@ -18,10 +18,10 @@
     <div id="logo">
         <a href="https://zerocurrency.io" target="_blank"><img src="assets/images/zero-logo-black-yellow.png"></a>
     </div>
-    <!-- <div class="hud topRight">
-        <a href="https://explorer.dash.org/chain/Dash" target="_blank"><span class="hudTextLabel">Block</span><span
-                id="bestBlockHeightText" class="hudText"></span></a>
-    </div> -->
+    <div class="hud topRight">
+        <!-- <a href="https://explorer.dash.org/chain/Dash" target="_blank"> -->
+        <span class="hudTextLabel">Block</span><span id="bestBlockHeightText" class="hudText"></span></a>
+    </div>
     <div class="hud bottomLeft">
         <div><span id="nextBlockTime" class="hudText" style="font-size: 32px">00:00</span></div>
     </div>
@@ -52,6 +52,21 @@
                     <img src="assets/icons/1458594844_github_rounded.png">
                 </a>
             </li>
+            <li>
+                <a href="http://t.me/zerocurrencyofficial" target="_blank">
+                    <img src="assets/icons/telegram.png">
+                </a>
+            </li>
+            <li>
+                <a href="https://medium.com/@zerocurrency" target="_blank">
+                    <img src="assets/icons/medium.png">
+                </a>
+            </li>
+            <li>
+                <a href="https://discord.gg/Jq5knn5" target="_blank">
+                    <img src="assets/icons/discord.png">
+                </a>
+            </li>
         </ul>
     </div>
     <div id="loader">
@@ -73,7 +88,7 @@
             bestBlockHeightText: document.getElementById('bestBlockHeightText'),
             nextBlockTime: document.getElementById('nextBlockTime'),
             canvas: document.getElementById("canvas"),
-            apiURL: 'http://178.128.42.10:3001/'
+            apiURL: 'https://insight.zerocurrency.io/'
         });
     });
 </script>
