@@ -51,6 +51,6 @@ https://www.thepolyglotdeveloper.com/2014/08/bypass-cors-errors-testing-apis-loc
 
 <10 = less than 10 Zer = Small Ball
 
-<100 = less than 100 Zer = Regular Ball
+<100 = less than 100 Zer = Medium Ball
 
 <1000 = less than 1000 Zer = Largest Ball
