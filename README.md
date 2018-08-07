@@ -1,6 +1,6 @@
 ## Ƶero Machine
 
-Ƶero Blockchain Visualizer using Three.js, Cannon.js and Insight API. https://www.zeromachine.io/
+Ƶero Blockchain Visualizer using Three.js, Cannon.js and Insight API. http://www.zeromachine.io/
 
 ### Build
 
