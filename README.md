@@ -2,6 +2,8 @@
 
 Ƶero Blockchain Visualizer using Three.js, Cannon.js and Insight API. http://www.zeromachine.io/
 
+![alt text](https://github.com/zerocurrencycoin/Zero-Machine/blob/master/zeromachine.png)
+
 ### Build
 
 Clone the repo:
